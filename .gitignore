@@ -1,0 +1,40 @@
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Compiled output
+build/
+bin/
+
+# Dependency directories
+lib/
+libs/
+
+# IDE files
+.vscode/
+.idea/
+
+# Build system files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Generated files
+*.generated.*
+*.generated.h
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
