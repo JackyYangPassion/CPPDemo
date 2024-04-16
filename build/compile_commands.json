@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/yangjiaqi/Documents/hugegraph_concurrency/cppProject/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/CPPProject.dir/main.cpp.o -c /Users/yangjiaqi/Documents/hugegraph_concurrency/cppProject/main.cpp",
+  "file": "/Users/yangjiaqi/Documents/hugegraph_concurrency/cppProject/main.cpp"
+}
+]

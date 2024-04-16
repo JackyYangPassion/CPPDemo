@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "intelliSenseMode": "macos-clang-x64",
+            "cppStandard": "c++17",
+            // 设置库文件路径
+            "env": {
+                "LD_LIBRARY_PATH": "/usr/local/lib" // 假设你的库文件在${workspaceFolder}/lib目录下
+            }
+        }
+    ],
+    "version": 4
+}
