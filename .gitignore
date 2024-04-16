@@ -9,6 +9,7 @@
 # Compiled output
 build/
 bin/
+db/
 
 # Dependency directories
 lib/
